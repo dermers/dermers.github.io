@@ -5,7 +5,7 @@ When simply navigating the Internet it is not always clear how interconnected th
 
 The ARPA network as designed on a napkin in 1969    |  The rough backbone of the modern Internet
 :--------------------------------------------------:|:--------------------------------------------------:
-![arpa](https://dermers.github.io/images/arpa.jpg)  |  ![arpa](https://dermers.github.io/images/backbone.jpg)
+![arpa](images/arpa.jpg)  |  ![arpa](/images/backbone.jpg)
 
 This site seeks to explore the ways in which the modern Internet is more useful as complex connection of media than a medium in it of itself. In terms of meta-analysis, the Internet is a particularly interesting medium being one of the most technical and wide reaching of modernly used media. However, the different ways in which "text" can be portrayed with computer technology and hosted on the Internet add new and important layers with which to view said medium.
 
