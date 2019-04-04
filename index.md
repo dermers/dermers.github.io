@@ -1,4 +1,7 @@
+<body style="background-color:green;">
+
 # Home Page
+
 
 [Technologies of Text - Unessay 2](/tot_project)
 
