@@ -1,6 +1,3 @@
-<body style="background-color:#cccccc;"> 
-</body>
-
 # Home Page
 
 
