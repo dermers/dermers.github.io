@@ -1,4 +1,4 @@
-<body style="background-color:green;"> 
+<body style="background-color:#f8f8f8;"> 
 </body>
 
 # Home Page
