@@ -49,10 +49,8 @@ I was also suprised at how little neutrality was found in my writing as I tried 
   Qamar ends his series of points poignantly, referencing a financial critique Bitcoin had been struggling to deal with: high transaction fees for slow transactions. In order to effectively use cryptocurrency as a currency, “money” needs to move hands often. High transaction fees discourage users from making transactions, and the slow transaction times make it harder for Bitcoin to be used in day to day sales – people want some assurance that they will get their money. Monero, on the other hand, has significantly faster transaction times and much lower fees (Qamar, 2018). This means, cryptocurrency enthusiasts who switch to Monero can actually use it! They may even make a hefty profit while doing so. 
   
   The ending of Qamar’s post is intended as a qualifying closer. He ties up his argument in a few words: “Monero is superior” (Qamar, 2018) and adds in a simple reference to timing. He relates the reader right at the end, pointing out that this is simply how he feels, and in doing so sets up the following pressure point. Qamar points out that adoption of crypto is at its peak, and now is the time to act. A small, but almost friendly, push towards his side of things leaves the reader with a lingering feeling that maybe he is right, maybe Monero truly is the next best thing. 
-  
-  
-  
-<p style="text-align: center;"><font size="+2"><b>Works Cited</b></font></p>  
+
+<p style="text-align: center;"><font size="+0.5"><b>Works Cited</b></font></p>  
 Bendanan, H. (2016, May 17). Polynomial time and exponential time. Retrieved from Stack Overflow:  
     https://stackoverflow.com/questions/4317414/polynomial-time-and-exponential-time  
 Qamar, A. (2018, April 15). Why Monero (XMR) should be Preferred over Bitcoin (BTC). Retrieved from  
