@@ -8,16 +8,11 @@ I downloaded my writing notebook as a text file and ran it through sentiment ana
 
 > import requests
 >  
-> file = open('notebook.txt', 'r', errors='ignore')
->
-> data = file.read().replace('\n', ' ').replace('â€', '').replace('œ', '').replace('™', '\'').replace('“', '')
->
-> file.close()
->
-> result = requests.post("http://text-processing.com/api/sentiment/", "text="+data).json()
->
-> print('Label: ' + result.get('label'))
->
+> file = open('notebook.txt', 'r', errors='ignore')  
+> data = file.read().replace('\n', ' ').replace('â€', '').replace('œ', '').replace('™', '\'').replace('“', '')  
+> file.close()  
+> result = requests.post("http://text-processing.com/api/sentiment/", "text="+data).json()  
+> print('Label: ' + result.get('label'))  
 > print('Stats: ' + str(result.get('probability')))
 
 The results were as follows:
