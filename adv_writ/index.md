@@ -51,7 +51,7 @@ I was also suprised at how little neutrality was found in my writing as I tried 
   The ending of Qamar’s post is intended as a qualifying closer. He ties up his argument in a few words: “Monero is superior” (Qamar, 2018) and adds in a simple reference to timing. He relates the reader right at the end, pointing out that this is simply how he feels, and in doing so sets up the following pressure point. Qamar points out that adoption of crypto is at its peak, and now is the time to act. A small, but almost friendly, push towards his side of things leaves the reader with a lingering feeling that maybe he is right, maybe Monero truly is the next best thing. 
 
 <br/>
-<p style="text-align: center;"><font size="+0.5"><b>Works Cited</b></font></p>  
+<p style="text-align: center;"><font size="+0.5"><b><mark>Works Cited</mark></b></font></p>  
 Bendanan, H. (2016, May 17). Polynomial time and exponential time. Retrieved from Stack Overflow:  
 &nbsp;&nbsp;&nbsp;&nbsp;https://stackoverflow.com/questions/4317414/polynomial-time-and-exponential-time  
 Qamar, A. (2018, April 15). Why Monero (XMR) should be Preferred over Bitcoin (BTC). Retrieved from  
@@ -82,6 +82,6 @@ I think this story came to mind primarily for two reasons. First, this is a ligh
 
 *While not very long, the exercise where we had to explain a car accident to three different audiences is a great example of what I feel I learned in this course. While I think I have had decent writing skills for a few years now, this course really allowed me to develop the ability to tailor those skills towards a specific audience with a specific goal in mind. When I join my field and write to a Computer Science audience, I have to be able to adopt styles, tones, and formatting that I have not had as much practice in as traditional writing.*
 
-To Parents: “I got in an accident. Everyone’s ok. I haven’t said anything.The police etc. are on their way, I’ll wait for you.”  
+To Parents: “I got in an accident. Everyone’s ok. I haven’t said anything. The police etc. are on their way, I’ll wait for you.”  
 To Friends: “Welp, I hit a car”  
 To Insurance: “It was raining with low visibility and I was in a minor collision. I have not claimed responsibility. What do we need to do?”
