@@ -54,7 +54,8 @@ I was also suprised at how little neutrality was found in my writing as I tried 
 Bendanan, H. (2016, May 17). Polynomial time and exponential time. Retrieved from Stack Overflow:  
 &nbsp;&nbsp;&nbsp;&nbsp;https://stackoverflow.com/questions/4317414/polynomial-time-and-exponential-time  
 Qamar, A. (2018, April 15). Why Monero (XMR) should be Preferred over Bitcoin (BTC). Retrieved from  
-&nbsp;&nbsp;&nbsp;&nbsp;Global Coin Report: https://globalcoinreport.com/why-monero-xmr-should-be-preferred-over-bitcoin-btc/  
+&nbsp;&nbsp;&nbsp;&nbsp;Global Coin Report: https://globalcoinreport.com/why-monero-xmr-should-be-preferred-over-bitcoin-  
+&nbsp;&nbsp;&nbsp;&nbsp;btc/  
 The Editors of Encyclopaedia Britannica. (2019, January 3). Ada Lovelace BRITISH MATHEMATICIAN.  
 &nbsp;&nbsp;&nbsp;&nbsp;Retrieved from Britannica: https://www.britannica.com/biography/Ada-Lovelace
 
