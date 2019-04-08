@@ -50,6 +50,7 @@ I was also suprised at how little neutrality was found in my writing as I tried 
   
   The ending of Qamar’s post is intended as a qualifying closer. He ties up his argument in a few words: “Monero is superior” (Qamar, 2018) and adds in a simple reference to timing. He relates the reader right at the end, pointing out that this is simply how he feels, and in doing so sets up the following pressure point. Qamar points out that adoption of crypto is at its peak, and now is the time to act. A small, but almost friendly, push towards his side of things leaves the reader with a lingering feeling that maybe he is right, maybe Monero truly is the next best thing. 
 
+<br/><br/>
 <p style="text-align: center;"><font size="+0.5"><b>Works Cited</b></font></p>  
 Bendanan, H. (2016, May 17). Polynomial time and exponential time. Retrieved from Stack Overflow:  
 &nbsp;&nbsp;&nbsp;&nbsp;https://stackoverflow.com/questions/4317414/polynomial-time-and-exponential-time  
