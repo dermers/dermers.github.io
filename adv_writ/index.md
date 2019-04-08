@@ -78,5 +78,10 @@ In the end, I realized my mistake, ran out to get my towel and got a stern talki
 
 I think this story came to mind primarily for two reasons. First, this is a lighthearted, silly family story about me. In a small, discussio based class I felt there would be a unique benefit to sharing something in my life, for the sake of allowing my fellow classmates to btter get to know me. Second, last semester, I had to pair up with another student and provide a spoken introduction of said partner. One such question we asked each other was for a family story. My partner went first, and shared a vaguely similar story of preschool embarrassment.  Such a story reminded me of my own, and this prompt reminded me of the aforementioned assignment from last semester and thus the story itself.
 
-### todo
+### Car Accident Exercise
 
+*While not very long, the exercise where we had to explain a car accident to three different audiences is a great example of what I feel I learned in this course. While I think I have had decent writing skills for a few years now, this course really allowed me to develop the ability to tailor those skills towards a specific aduience with a specific goal in mind. When I join my field and write to a Computer Science audience, I have to be able to adopt styles, tones, and formatting that I have not had as much practise in as traditional writing.*
+
+To Parents: “I got in an accident. Everyone’s ok. I haven’t said anything.The police etc. are on their way, I’ll wait for you.”  
+To Friends: “Welp, I hit a car”  
+To Insurance: “It was raining with low visibility and I was in a minor collision. I have not claimed responsibility. What do we need to do?”
