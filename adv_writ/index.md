@@ -1,6 +1,6 @@
 ## As a Writer
 
-I've found that, throughout the semester, I have developed my skills primarily in regards to adapting my writing to the context it is around. When I wrote for previous courses (and in highschool) I often adopted a similiar tone and format, merely aiming to get my point across. I had yet to realize that the best way to achieve such a goal was to consciously adapt my writing based on the audience and type of writing it is. 
+I've found that, throughout the semester, I have developed my skills primarily with respect to adapting my writing to the context it is around. When I wrote for previous courses (and in highschool) I often adopted a similiar tone and format, merely aiming to get my point across. I had yet to realize that the best way to achieve such a goal was to consciously adapt my writing based on the audience and type of writing it is. 
 
 ### Sentiment Analysis
 
@@ -66,7 +66,7 @@ The Editors of Encyclopaedia Britannica. (2019, January 3). Ada Lovelace BRITISH
 
 ### My First Piece
 
-*I wanted to use the very first writing exercise as one of my artifacts as a chance to see just how far I've come in the class. Going all the way back to beginning provided the perfect opportunity to analyze the styles and skills I came into the class with and compare those with how I've been writing as the semester comes to an end.*
+*I wanted to use the first writing exercise as one of my artifacts as a chance to see just how far I've come in the class. Going all the way back to beginning provided the perfect opportunity to analyze the styles and skills I came into the class with and compare those with how I've been writing as the semester comes to an end.*
 
 When I was much younger, in preschool, I was quite the trouble-maker. Easily bored, I made a game of everything, so when my preschool teachers announced a “water fight” I was excited to have the chance to actually spend my pent up energy.  
 
@@ -80,7 +80,7 @@ I think this story came to mind primarily for two reasons. First, this is a ligh
 
 ### Car Accident Exercise
 
-*While not very long, the exercise where we had to explain a car accident to three different audiences is a great example of what I feel I learned in this course. While I think I have had decent writing skills for a few years now, this course really allowed me to develop the ability to tailor those skills towards a specific aduience with a specific goal in mind. When I join my field and write to a Computer Science audience, I have to be able to adopt styles, tones, and formatting that I have not had as much practise in as traditional writing.*
+*While not very long, the exercise where we had to explain a car accident to three different audiences is a great example of what I feel I learned in this course. While I think I have had decent writing skills for a few years now, this course really allowed me to develop the ability to tailor those skills towards a specific audience with a specific goal in mind. When I join my field and write to a Computer Science audience, I have to be able to adopt styles, tones, and formatting that I have not had as much practice in as traditional writing.*
 
 To Parents: “I got in an accident. Everyone’s ok. I haven’t said anything.The police etc. are on their way, I’ll wait for you.”  
 To Friends: “Welp, I hit a car”  
