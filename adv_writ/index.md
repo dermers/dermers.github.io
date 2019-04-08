@@ -1,6 +1,6 @@
 ## As a Writer
 
-
+I've found that, throughout the semester, I have developed my skills primarily in regards to adapting my writing to the context it is around. When I wrote for previous courses (and in highschool) I often adopted a similiar tone and format, merely aiming to get my point across. I had yet to realize that the best way to achieve such a goal was to consciously adapt my writing based on the audience and type of writing it is. 
 
 ### Sentiment Analysis
 
