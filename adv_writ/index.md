@@ -66,13 +66,17 @@ The Editors of Encyclopaedia Britannica. (2019, January 3). Ada Lovelace BRITISH
 
 ### My First Piece
 
-I wanted to use the very first writing exercise as one of my artifacts as a chance to see just how far I've come in the class. Going all the way back to beginning provided the perfect opportunity to analyze the styles and skills I came into the class with and compare those with how I've been writing as the semester comes to an end.
+*I wanted to use the very first writing exercise as one of my artifacts as a chance to see just how far I've come in the class. Going all the way back to beginning provided the perfect opportunity to analyze the styles and skills I came into the class with and compare those with how I've been writing as the semester comes to an end.*
 
 When I was much younger, in preschool, I was quite the trouble-maker. Easily bored, I made a game of everything, so when my preschool teachers announced a “water fight” I was excited to have the chance to actually spend my pent up energy.  
+
 The day came, I was ready in my bathing suit, towel hung up by the door like the rest of my classmates, and already planning where I would make my “fort”. My best friend (whose name I can never remember) and I ran straight underneath the playground and behind one of the climbing walls as the teachers attempted to get everyone soaked with water hoses. Us kids were squealing, running, and all around having a blast.  
+
 My friend and I, however, were satisfied with our hiding spot and thought we had “won”, determined to stay dry no matter what. After all, they hadn’t even attempted to spray us for quite awhile. After what felt like a much longer recess (because it was - oops) we figured we must be the driest kids out there, it was awesome. I peeked around the corner, confused as to why the screaming and hoses stopped only to find our teachers, in a panic holding my towel. For them, there was an extra towel and thus a missing kid. I hadn’t run away; I was still on the playground, so it hadn’t occurred to me that maybe my hiding spot was too good.  
+
 In the end, I realized my mistake, ran out to get my towel and got a stern talking to about “listening to the teachers” when I need to come back inside. Of course, my mom wouldn’t let me live it down, and the story has since spread around my family like wildfire.  
-I think tis story came to mind primarily for two reasons. First, this is a lighthearted, silly family story about me. In a small, discussio based class I felt there would be a unique benefit to sharing something in my life, for the sake of allowing my fellow classmates to btter get to know me. Second, last semester, I had to pair up with another student and provide a spoken introduction of said partner. One such question we asked each other was for a family story. My partner went first, and shared a vaguely similar story of preschool embarrassment.  Such a story reminded me of my own, and this prompt reminded me of the aforementioned assignment from last semester and thus the story itself.
+
+I think this story came to mind primarily for two reasons. First, this is a lighthearted, silly family story about me. In a small, discussio based class I felt there would be a unique benefit to sharing something in my life, for the sake of allowing my fellow classmates to btter get to know me. Second, last semester, I had to pair up with another student and provide a spoken introduction of said partner. One such question we asked each other was for a family story. My partner went first, and shared a vaguely similar story of preschool embarrassment.  Such a story reminded me of my own, and this prompt reminded me of the aforementioned assignment from last semester and thus the story itself.
 
 ### todo
 
