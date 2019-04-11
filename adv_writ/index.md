@@ -2,6 +2,8 @@
 
 I've found that, throughout the semester, I have developed my skills primarily with respect to adapting my writing to the context it is around. When I wrote for previous courses (and in highschool) I often adopted a similiar tone and format, merely aiming to get my point across. I had yet to realize that the best way to achieve such a goal was to consciously adapt my writing based on the audience and type of writing it is. 
 
+When we began the semester, I viewed most writing as simply that: the written word. I had yet to consider the methods with which writing can be a tool adapted for the sake of sharing ideas effectively. In the very first exercise =, when we told anny story that came to mind, I chose to write about when I hid *too well* during a preschool event because "this prompt reminded me of \[an\]... assignment from last semester and thus the story itself". I wrote about the first thing that came to mind because it would be easy. While I did want to allow "my fellow classmates to better get to know me", I was primarilly striving to satisfy the prompt first. 
+
 ### Sentiment Analysis
 
 I downloaded my writing notebook as a text file and ran it through sentiment analysis using the following code I wrote in Python:
@@ -76,7 +78,7 @@ My friend and I, however, were satisfied with our hiding spot and thought we had
 
 In the end, I realized my mistake, ran out to get my towel and got a stern talking to about “listening to the teachers” when I need to come back inside. Of course, my mom wouldn’t let me live it down, and the story has since spread around my family like wildfire.  
 
-I think this story came to mind primarily for two reasons. First, this is a lighthearted, silly family story about me. In a small, discussio based class I felt there would be a unique benefit to sharing something in my life, for the sake of allowing my fellow classmates to btter get to know me. Second, last semester, I had to pair up with another student and provide a spoken introduction of said partner. One such question we asked each other was for a family story. My partner went first, and shared a vaguely similar story of preschool embarrassment.  Such a story reminded me of my own, and this prompt reminded me of the aforementioned assignment from last semester and thus the story itself.
+I think this story came to mind primarily for two reasons. First, this is a lighthearted, silly family story about me. In a small, discussion based class I felt there would be a unique benefit to sharing something in my life, for the sake of allowing my fellow classmates to better get to know me. Second, last semester, I had to pair up with another student and provide a spoken introduction of said partner. One such question we asked each other was for a family story. My partner went first, and shared a vaguely similar story of preschool embarrassment.  Such a story reminded me of my own, and this prompt reminded me of the aforementioned assignment from last semester and thus the story itself.
 
 ### Car Accident Exercise
 
