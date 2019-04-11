@@ -2,7 +2,9 @@
 
 I've found that, throughout the semester, I have developed my skills primarily with respect to adapting my writing to the context it is around. When I wrote for previous courses (and in highschool) I often adopted a similiar tone and format, merely aiming to get my point across. I had yet to realize that the best way to achieve such a goal was to consciously adapt my writing based on the audience and type of writing it is. 
 
-When we began the semester, I viewed most writing as simply that: the written word. I had yet to consider the methods with which writing can be a tool adapted for the sake of sharing ideas effectively. In the very first exercise =, when we told anny story that came to mind, I chose to write about when I hid *too well* during a preschool event because "this prompt reminded me of \[an\]... assignment from last semester and thus the story itself". I wrote about the first thing that came to mind because it would be easy. While I did want to allow "my fellow classmates to better get to know me", I was primarilly striving to satisfy the prompt first. 
+When we began the semester, I viewed most writing as simply that: the written word. I had yet to consider the methods with which writing can be a tool adapted for the sake of sharing ideas effectively. In the very first exercise, when we told any story that came to mind, I chose to write about when I hid *too well* during a preschool event because "this prompt reminded me of \[an\]... assignment from last semester and thus the story itself". I wrote about the first thing that came to mind because it would be easy. While I did want to allow "my fellow classmates to better get to know me", I was primarilly striving to satisfy the prompt first. 
+
+
 
 ### Sentiment Analysis
 
