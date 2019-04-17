@@ -66,7 +66,7 @@ The Editors of Encyclopaedia Britannica. (2019, January 3). Ada Lovelace BRITISH
 
 ### Project 2 (update name) - Revised
 
-See pdf [here](https://nbviewer.jupyter.org/github/dermers/dermers.github.io/blob/master/adv_writ/Project2.pdf). *Note: not included directly to allow for convenient formatting)*
+See pdf [here](https://nbviewer.jupyter.org/github/dermers/dermers.github.io/blob/master/adv_writ/Project2.pdf). *Note: not included directly to allow for convenient formatting*
 
 ### My First Piece
 
